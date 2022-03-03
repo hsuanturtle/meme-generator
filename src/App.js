@@ -6,7 +6,7 @@ import Memegenerator from "./components/Memegenerator";
 function App() {
   return (
     <Wrapper>
-      <div class="title">
+      <div className="title">
         <h1>MEME GENERATOR</h1>
       </div>
       <Memegenerator />
